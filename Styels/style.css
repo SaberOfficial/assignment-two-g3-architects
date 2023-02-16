@@ -561,6 +561,8 @@ Responsive for Mobile/ Small Devices - Boostrap Breakpoints 576px
         font-size: 14px;
         text-align: center;
         padding-top: 15px;
+        margin-right: 10px;
+        margin-left: 10px;
     }
 
 }
